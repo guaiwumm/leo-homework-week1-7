@@ -1,5 +1,5 @@
 # leo-homework-week1-7
-Problem:	Report Error
+Problem:
 The railfence cipher is a way of scrambling a message so as to make it unreadable. It works by breaking up the text into several pieces called rails. Suppose we wish to have $n$ rails. We form rail $i$ (where $0 \le i < n$) by starting with the character in position $i$ (assuming the first character is in position 0) and taking every $n^\text{th}$ character following. We then concatenate the rails in reverse order to form the scrambled string.
 
 For example:
